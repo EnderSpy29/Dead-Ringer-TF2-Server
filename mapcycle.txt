@@ -1,0 +1,7 @@
+// Custom Map Cycle For Dead Ringer Community Server
+
+ctf_2fort
+ctf_doublecross
+cp_process_final
+pl_upward
+pl_borneo
