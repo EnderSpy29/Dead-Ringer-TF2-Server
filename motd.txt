@@ -1,0 +1,12 @@
+Welcome to the Dead Ringer Community Server!
+
+If you want a change of pace, or are trying to escape from the bots. This is the place for you
+
+Rules
+- No Slurs
+- No Cheating
+
+Commands
+- !Nominate (Nominate a Map)
+- !RTV (Rock The Vote)
+These commands can also be accessed by the vote menu
